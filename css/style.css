@@ -54,7 +54,7 @@ html{
     position: absolute;
     top: 0;
     left: 0;
-    background: url('images/bg.JPG') no-repeat center center/cover;
+    background: url('bg.JPG') no-repeat center center/cover;
     height: 700px;
     width: 100%;
     z-index: -1;
@@ -195,4 +195,11 @@ html{
     background-color: green;
     color: white;
     cursor: pointer;
+}
+footer{
+    clear:both;
+    color: black;
+    background-color: none;
+    padding: 10px;
+    text-align: center;
 }
